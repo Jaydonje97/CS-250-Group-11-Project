@@ -4,7 +4,7 @@
 - Jaydon Eppinette
 - Joshua Constine
 - Agustin Munoz
-- Marc
+- Marc Rodriguez
 
 ## System Description
 
